@@ -1,4 +1,4 @@
 language = "python3"
-#run = "python aritmatika main.py"
-#run = "python LATIHAN_PYTHON main.py"
+#run = "python aritmatika"
+#run = "python LATIHAN_PYTHON"
 run = "python main.py"

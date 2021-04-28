@@ -1,10 +1,10 @@
 import os
 #/opt/virtualenvs/python3/bin/python:
-os.chdir("/opt/virtualenvs/python3/bin/")
+os.chdir("/home/runner/SegalaTugas/")
 
-import latihan_package.alpha as a, latihan_package.beta as b
+import LATIHAN_PYTHON.latihan_package.alpha as a ,LATIHAN_PYTHON.latihan_package.beta as b
 
 a.alphaSatu()
-b.betaDua
+b.betaDua()
 
 os.getcwd()
