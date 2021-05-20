@@ -1,0 +1,3 @@
+import aritmatika 
+
+aritmatika.tampil()
